@@ -12,3 +12,4 @@
 /home/swapnil/dotnet-pracitce/HelloApp/obj/Debug/net8.0/HelloApp.pdb
 /home/swapnil/dotnet-pracitce/HelloApp/obj/Debug/net8.0/HelloApp.genruntimeconfig.cache
 /home/swapnil/dotnet-pracitce/HelloApp/obj/Debug/net8.0/ref/HelloApp.dll
+/home/swapnil/dotnet-pracitce/HelloApp/obj/Debug/net8.0/HelloApp.sourcelink.json

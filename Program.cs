@@ -1,3 +1,5 @@
 ﻿using Problems;
 
-LargestOfThree.Run();
+// LargestOfThree.Run();
+
+LargestOfSeven.Run();
