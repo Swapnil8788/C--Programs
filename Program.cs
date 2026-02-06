@@ -37,6 +37,6 @@ using Concepts;
 using Inhertiance;
 
 // class1.Run();
-class2.Run();
+LinkedListEx.Run();
 
 
